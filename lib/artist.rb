@@ -7,6 +7,6 @@ class Artist
     # self.name
    end
    
-   
+   def self.all 
   
 end 
