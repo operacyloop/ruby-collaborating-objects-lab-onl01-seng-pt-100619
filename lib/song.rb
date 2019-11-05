@@ -1,5 +1,6 @@
 class Song
   
-  def initialize(title)
+  def initialize(name)
+end 
   
 end 
