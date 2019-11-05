@@ -5,6 +5,8 @@ class Artist
   def initialize(name) 
     @name = name 
     # self.name
-end
+   end
+   
+   
   
 end 
