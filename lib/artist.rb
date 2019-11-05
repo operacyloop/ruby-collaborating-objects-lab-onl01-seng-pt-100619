@@ -36,6 +36,11 @@ class Artist
       self.find_by_name(name) # return specifi artist
       else 
         #create new artist using name 
-        self.new(name) 
+        self.new(name)
+      end 
+      
+    def print_songs
+      
+    end 
     end 
 end 
