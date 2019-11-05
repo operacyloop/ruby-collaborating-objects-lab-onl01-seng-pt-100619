@@ -23,7 +23,7 @@ class Artist
        # select will return all that fit, but find or detect will return first one
    end 
    
-   def add_song(sasasd)
-     song.artist
+   def add_song(song)
+     song.artist = self
     end
 end 
