@@ -24,4 +24,6 @@ class Artist
    end 
    
    def add_song(sasasd)
+     song.artist
+    end
 end 
