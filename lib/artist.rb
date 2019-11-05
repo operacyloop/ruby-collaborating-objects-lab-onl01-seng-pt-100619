@@ -23,5 +23,5 @@ class Artist
        # select will return all that fit, but find or detect will return first one
    end 
    
-   
+   def
 end 
