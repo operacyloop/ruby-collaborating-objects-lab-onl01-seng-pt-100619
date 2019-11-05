@@ -16,6 +16,7 @@ class Artist
    
    def songs 
      Songs.all.select do | song |  # will return all that fit, but find or detect will return first one
+     binding.pry
        
       song = self 
      
