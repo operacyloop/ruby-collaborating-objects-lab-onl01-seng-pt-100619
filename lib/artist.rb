@@ -9,4 +9,5 @@ class Artist
    
    def self.all 
   
+   end 
 end 
