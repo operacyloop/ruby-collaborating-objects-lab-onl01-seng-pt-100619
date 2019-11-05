@@ -40,8 +40,8 @@ class Artist
       end 
       
     def print_songs
-      self.songs 
-      puts self.songs
+      self.songs.each do |song| 
+        puts song.name
     end 
     
     end 
