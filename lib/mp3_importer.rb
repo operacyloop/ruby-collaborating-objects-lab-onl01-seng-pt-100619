@@ -15,6 +15,9 @@ end
 end 
   
 def import 
+  self.files.each do | file |
+    binding.pry 
+end 
 end 
   
 end 
