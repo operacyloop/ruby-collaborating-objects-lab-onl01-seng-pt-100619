@@ -13,3 +13,5 @@ def files
 end 
   
 end 
+
+file.gsub(path)
