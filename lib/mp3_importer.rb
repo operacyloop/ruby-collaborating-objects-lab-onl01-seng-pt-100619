@@ -17,7 +17,7 @@ end
 def import 
   self.files.each do | file |
     binding.pry 
-  Song.new_by_filenmae(filename)
+  Song.new_by_filename(file)
 end 
 end 
 end 
