@@ -13,6 +13,7 @@ def songs
 end 
 
 def new_by_filename(filename) #class method NOT instance method 
+binding.pry 
 
 end 
   
