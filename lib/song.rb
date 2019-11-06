@@ -12,7 +12,8 @@ end
 def songs 
 end 
 
-def new_by_filename 
+def new_by_filename(filename) #class method NOT instance method 
+
 end 
   
 end 
