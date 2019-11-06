@@ -10,7 +10,9 @@ class Song
 end 
 
 def songs 
-  
+end 
+
+def new_by_filename 
 end 
   
 end 
